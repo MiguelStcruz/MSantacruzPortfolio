@@ -4,6 +4,7 @@
 A dependency-free, single-page portfolio built with semantic HTML, CSS, and vanilla JavaScript.
 
 ## Project structure
+
 .
 ├── index.html
 ├── css/styles.css
