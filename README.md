@@ -5,6 +5,7 @@ A dependency-free, single-page portfolio built with semantic HTML, CSS, and vani
 
 ## Project structure
 
+```text
 .
 ├── index.html
 ├── css/styles.css
