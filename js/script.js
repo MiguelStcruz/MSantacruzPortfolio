@@ -6,7 +6,7 @@ const projects = [
     description: 'A third-person, multiplayer puzzle game. Four players must collaborate together to solve puzzles and move through the levels while chained to each other.',
     role: 'UI Programmer',
     engine: 'Unreal Engine',
-    language: 'C#',
+    language: 'C#, Blueprints',
     contributions: ['UI design', 'UI functionality', 'Level cutscenes',],
     overview: 'Lightlock is a game where four players are chained together and they must solve puzzles to escape. ',
     image: 'assets/images/LightLockpng.png',
