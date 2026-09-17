@@ -8,7 +8,7 @@ const projects = [
     engine: 'Unreal Engine',
     language: 'C#',
     contributions: ['UI design', 'UI functionality', 'Level cutscenes',],
-    overview: 'Lightlock ',
+    overview: 'Lightlock is a game where four players are chained together and they must solve puzzles to escape. ',
     image: 'assets/images/LightLockpng.png',
     video: 'assets/videos/LightLock.mp4'
   },
@@ -19,7 +19,7 @@ const projects = [
     engine: 'Custom made engine',
     language: 'C++',
     contributions: ['Collision detection', 'Player controller', 'Animation system', 'Art assets', 'UI implementation'],
-    overview: 'to do',
+    overview: 'More than a game, the purpose of YetiRun was to design game engine assets and systems, such as physics, animations, UI, etc.',
     image: 'assets/images/YetiRun.png',
     video: ''
   },
@@ -30,7 +30,7 @@ const projects = [
     engine: 'Unreal Engine',
     language: 'C# - Blueprints',
     contributions: ['Random terrain generation', 'Player controller', 'Local networking', 'Game save and load files'],
-    overview: 'to do',
+    overview: 'The player takes control of a frog sliding down the sewers. They must collect goodies while dodging dangerous obstacles in an endless runner.',
     image: 'assets/images/SewerSurferspng.png',
     video: 'assets/videos/SewerSurfers.mp4'
   }
