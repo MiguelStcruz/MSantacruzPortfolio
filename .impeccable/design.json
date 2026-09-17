@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-10T15:39:11.2666930-05:00",
+  "title": "Design System: Miguel Santacruz Portfolio",
+  "extensions": {
+    "colorMeta": {
+      "diagnostic-blue": {
+        "role": "primary",
+        "displayName": "Diagnostic Blue",
+        "canonical": "#4ea1ff",
+        "tonalRamp": ["oklch(15% 0.160 253.5)", "oklch(25% 0.160 253.5)", "oklch(35% 0.160 253.5)", "oklch(45% 0.160 253.5)", "oklch(55% 0.160 253.5)", "oklch(65% 0.160 253.5)", "oklch(80% 0.160 253.5)", "oklch(95% 0.160 253.5)"]
+      },
+      "diagnostic-blue-bright": {
+        "role": "primary",
+        "displayName": "Diagnostic Blue Bright",
+        "canonical": "#76b9ff",
+        "tonalRamp": ["oklch(15% 0.122 250.7)", "oklch(25% 0.122 250.7)", "oklch(35% 0.122 250.7)", "oklch(45% 0.122 250.7)", "oklch(55% 0.122 250.7)", "oklch(65% 0.122 250.7)", "oklch(80% 0.122 250.7)", "oklch(95% 0.122 250.7)"]
+      },
+      "runtime-green": {
+        "role": "tertiary",
+        "displayName": "Runtime Green",
+        "canonical": "#7ee2b8",
+        "tonalRamp": ["oklch(15% 0.113 164.8)", "oklch(25% 0.113 164.8)", "oklch(35% 0.113 164.8)", "oklch(45% 0.113 164.8)", "oklch(55% 0.113 164.8)", "oklch(65% 0.113 164.8)", "oklch(80% 0.113 164.8)", "oklch(95% 0.113 164.8)"]
+      },
+      "canvas-navy": {
+        "role": "neutral",
+        "displayName": "Canvas Navy",
+        "canonical": "#07111f",
+        "tonalRamp": ["oklch(15% 0.033 256.4)", "oklch(25% 0.033 256.4)", "oklch(35% 0.033 256.4)", "oklch(45% 0.033 256.4)", "oklch(55% 0.033 256.4)", "oklch(65% 0.033 256.4)", "oklch(80% 0.033 256.4)", "oklch(95% 0.033 256.4)"]
+      },
+      "canvas-navy-deep": {
+        "role": "neutral",
+        "displayName": "Deep Canvas Navy",
+        "canonical": "#040b14",
+        "tonalRamp": ["oklch(15% 0.024 250.7)", "oklch(25% 0.024 250.7)", "oklch(35% 0.024 250.7)", "oklch(45% 0.024 250.7)", "oklch(55% 0.024 250.7)", "oklch(65% 0.024 250.7)", "oklch(80% 0.024 250.7)", "oklch(95% 0.024 250.7)"]
+      },
+      "surface-navy": {
+        "role": "neutral",
+        "displayName": "Surface Navy",
+        "canonical": "#0b1f33",
+        "tonalRamp": ["oklch(15% 0.047 250.5)", "oklch(25% 0.047 250.5)", "oklch(35% 0.047 250.5)", "oklch(45% 0.047 250.5)", "oklch(55% 0.047 250.5)", "oklch(65% 0.047 250.5)", "oklch(80% 0.047 250.5)", "oklch(95% 0.047 250.5)"]
+      },
+      "surface-navy-raised": {
+        "role": "neutral",
+        "displayName": "Raised Surface Navy",
+        "canonical": "#102a43",
+        "tonalRamp": ["oklch(15% 0.056 249.8)", "oklch(25% 0.056 249.8)", "oklch(35% 0.056 249.8)", "oklch(45% 0.056 249.8)", "oklch(55% 0.056 249.8)", "oklch(65% 0.056 249.8)", "oklch(80% 0.056 249.8)", "oklch(95% 0.056 249.8)"]
+      },
+      "surface-navy-high": {
+        "role": "neutral",
+        "displayName": "High Surface Navy",
+        "canonical": "#163d5c",
+        "tonalRamp": ["oklch(15% 0.070 245.8)", "oklch(25% 0.070 245.8)", "oklch(35% 0.070 245.8)", "oklch(45% 0.070 245.8)", "oklch(55% 0.070 245.8)", "oklch(65% 0.070 245.8)", "oklch(80% 0.070 245.8)", "oklch(95% 0.070 245.8)"]
+      },
+      "text-primary": {
+        "role": "neutral",
+        "displayName": "Primary Text",
+        "canonical": "#f4f7fb",
+        "tonalRamp": ["oklch(15% 0.006 255.5)", "oklch(25% 0.006 255.5)", "oklch(35% 0.006 255.5)", "oklch(45% 0.006 255.5)", "oklch(55% 0.006 255.5)", "oklch(65% 0.006 255.5)", "oklch(80% 0.006 255.5)", "oklch(95% 0.006 255.5)"]
+      },
+      "text-secondary": {
+        "role": "neutral",
+        "displayName": "Secondary Text",
+        "canonical": "#a9b7c7",
+        "tonalRamp": ["oklch(15% 0.028 251.7)", "oklch(25% 0.028 251.7)", "oklch(35% 0.028 251.7)", "oklch(45% 0.028 251.7)", "oklch(55% 0.028 251.7)", "oklch(65% 0.028 251.7)", "oklch(80% 0.028 251.7)", "oklch(95% 0.028 251.7)"]
+      },
+      "text-dim": {
+        "role": "neutral",
+        "displayName": "Dim Text",
+        "canonical": "#7f92a7",
+        "tonalRamp": ["oklch(15% 0.038 251.0)", "oklch(25% 0.038 251.0)", "oklch(35% 0.038 251.0)", "oklch(45% 0.038 251.0)", "oklch(55% 0.038 251.0)", "oklch(65% 0.038 251.0)", "oklch(80% 0.038 251.0)", "oklch(95% 0.038 251.0)"]
+      },
+      "line-subtle": {
+        "role": "neutral",
+        "displayName": "Subtle Line",
+        "canonical": "rgba(169, 183, 199, .2)",
+        "tonalRamp": ["rgba(169, 183, 199, .08)", "rgba(169, 183, 199, .12)", "rgba(169, 183, 199, .16)", "rgba(169, 183, 199, .2)", "rgba(169, 183, 199, .28)", "rgba(169, 183, 199, .4)", "rgba(169, 183, 199, .62)", "rgba(169, 183, 199, .88)"]
+      },
+      "line-active": {
+        "role": "primary",
+        "displayName": "Active Line",
+        "canonical": "rgba(118, 185, 255, .42)",
+        "tonalRamp": ["rgba(118, 185, 255, .08)", "rgba(118, 185, 255, .16)", "rgba(118, 185, 255, .24)", "rgba(118, 185, 255, .32)", "rgba(118, 185, 255, .42)", "rgba(118, 185, 255, .56)", "rgba(118, 185, 255, .72)", "rgba(118, 185, 255, .9)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Portfolio name in the hero only." },
+      "headline": { "displayName": "Headline", "purpose": "Major section and contact statements." },
+      "title": { "displayName": "Project Title", "purpose": "Project names in repeated case-study cards." },
+      "body": { "displayName": "Body", "purpose": "Readable technical explanation and supporting copy." },
+      "label": { "displayName": "Diagnostic Label", "purpose": "States, roles, values, dates, and system metadata." },
+      "control-label": { "displayName": "Control Label", "purpose": "Tracked uppercase text for interface buttons." }
+    },
+    "shadows": [
+      { "name": "overlay-lift", "value": "0 24px 64px rgba(0, 5, 12, .34)", "purpose": "Opened mobile navigation." },
+      { "name": "scrolled-header", "value": "0 12px 28px rgba(0, 5, 12, .22)", "purpose": "Sticky header separation after scrolling." },
+      { "name": "media-frame", "value": "0 20px 50px rgba(0, 0, 0, .35)", "purpose": "Lift inside project-media placeholders." },
+      { "name": "modal-lift", "value": "0 32px 96px rgba(0, 0, 0, .65)", "purpose": "Case-study dialog above its backdrop." },
+      { "name": "engine-inset", "value": "inset 0 0 80px rgba(0, 5, 12, .55)", "purpose": "Containment inside the diagnostic engine visual." }
+    ],
+    "motion": [
+      { "name": "ease-out", "value": "cubic-bezier(.16, 1, .3, 1)", "purpose": "Menu transforms, reveal motion, and button displacement." },
+      { "name": "state-transition", "value": "180ms ease", "purpose": "Color and border state changes." },
+      { "name": "menu-transform", "value": "220ms cubic-bezier(.16, 1, .3, 1)", "purpose": "Mobile menu icon transformation." },
+      { "name": "section-reveal", "value": "360ms cubic-bezier(.16, 1, .3, 1)", "purpose": "One-time reveal of the work section heading." },
+      { "name": "signal-pulse", "value": "4.2s linear 1 both", "purpose": "One-time path trace through the engine state graph." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "620px" },
+      { "name": "desktop", "value": "900px" },
+      { "name": "wide", "value": "1440px" },
+      { "name": "ultrawide", "value": "1800px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Primary action for opening case studies and moving into featured work.",
+      "html": "<button class=\"ds-button-primary\" type=\"button\">VIEW CASE STUDY</button>",
+      "css": ".ds-button-primary { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; padding: 12px 20px; border: 1px solid transparent; border-radius: 8px; background: var(--accent); color: var(--bg-deep); font: 750 .8rem/1 var(--font); letter-spacing: .075em; text-transform: uppercase; cursor: pointer; transition: background-color 180ms ease, transform 180ms var(--ease-out); } .ds-button-primary:hover { background: var(--accent-bright); transform: translateY(-2px); } .ds-button-primary:active { transform: translateY(0); } .ds-button-primary:focus-visible { outline: 3px solid var(--accent-bright); outline-offset: 4px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined action for external links and secondary case-study routes.",
+      "html": "<a class=\"ds-button-secondary\" href=\"#\">GITHUB</a>",
+      "css": ".ds-button-secondary { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; padding: 12px 20px; border: 1px solid var(--line-strong); border-radius: 8px; background: transparent; color: var(--text); font: 750 .8rem/1 var(--font); letter-spacing: .075em; text-decoration: none; text-transform: uppercase; transition: background-color 180ms ease, border-color 180ms ease, transform 180ms var(--ease-out); } .ds-button-secondary:hover { border-color: var(--accent-bright); background: rgba(118, 185, 255, .08); transform: translateY(-2px); } .ds-button-secondary:active { transform: translateY(0); } .ds-button-secondary:focus-visible { outline: 3px solid var(--accent-bright); outline-offset: 4px; }"
+    },
+    {
+      "name": "Navigation Link",
+      "kind": "nav",
+      "description": "Quiet section navigation that brightens only for hover or current-section state.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Preview navigation\"><a href=\"#\">WORK</a><a href=\"#\" aria-current=\"true\">ABOUT</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 8px; background: var(--bg); } .ds-nav a { min-height: 44px; display: inline-flex; align-items: center; padding: 0 12px; color: var(--muted); font: 600 .82rem/1 var(--font); text-decoration: none; } .ds-nav a:hover { color: var(--text); } .ds-nav a[aria-current=\"true\"] { color: var(--accent-bright); } .ds-nav a:focus-visible { outline: 3px solid var(--accent-bright); outline-offset: 4px; }"
+    },
+    {
+      "name": "Skill Chip",
+      "kind": "chip",
+      "refersTo": "skill-chip",
+      "description": "Static compact label for verified tools and technologies.",
+      "html": "<span class=\"ds-skill-chip\">Gameplay Programming</span>",
+      "css": ".ds-skill-chip { display: inline-flex; padding: 8px 11px; border: 1px solid var(--line); border-radius: 6px; background: rgba(16, 42, 67, .45); color: var(--muted); font: .86rem/1.2 var(--font); }"
+    },
+    {
+      "name": "Project Card",
+      "kind": "card",
+      "refersTo": "project-card",
+      "description": "Primary editorial container for project metadata, contribution detail, and action.",
+      "html": "<article class=\"ds-project-card\"><p class=\"ds-project-index\">PROJECT 01 · DETAILS TO REPLACE</p><h3>Project title</h3><p>Technical focus and contribution summary.</p></article>",
+      "css": ".ds-project-card { max-width: 520px; padding: 28px 24px 30px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--text); font-family: var(--font); } .ds-project-card h3 { margin: 0 0 14px; font-size: clamp(1.7rem, 6vw, 2.8rem); line-height: 1.06; letter-spacing: -.025em; } .ds-project-card p { margin: 0; color: var(--muted); line-height: 1.65; } .ds-project-card .ds-project-index { margin-bottom: 16px; color: var(--accent-bright); font: .7rem/1.2 var(--mono); letter-spacing: .1em; }"
+    },
+    {
+      "name": "Process Node",
+      "kind": "custom",
+      "description": "Small connected state label used to explain real gameplay-system flow.",
+      "html": "<div class=\"ds-process-flow\" aria-label=\"Input to state to feedback\"><span>Input</span><i></i><span>State</span><i></i><span>Feedback</span></div>",
+      "css": ".ds-process-flow { min-height: 78px; display: flex; align-items: center; color: var(--accent-bright); font: .67rem/1.2 var(--mono); } .ds-process-flow span { padding: 6px 8px; border: 1px solid var(--line-strong); border-radius: 5px; } .ds-process-flow i { width: 32px; height: 1px; background: var(--line-strong); }"
+    },
+    {
+      "name": "Active Engine State",
+      "kind": "custom",
+      "description": "Signature active node from the hero's gameplay-controller state graph.",
+      "html": "<svg class=\"ds-engine-node\" viewBox=\"0 0 180 96\" role=\"img\" aria-label=\"Active Locomotion state\"><rect x=\"18\" y=\"8\" width=\"144\" height=\"80\" rx=\"8\"/><text x=\"40\" y=\"38\" class=\"ds-node-label\">STATE</text><text x=\"40\" y=\"66\" class=\"ds-node-value\">Locomotion</text><circle cx=\"18\" cy=\"48\" r=\"5\"/><circle cx=\"162\" cy=\"48\" r=\"5\"/></svg>",
+      "css": ".ds-engine-node { width: 180px; background: #081827; } .ds-engine-node rect { fill: #102e49; stroke: var(--accent); stroke-width: 2; } .ds-engine-node circle { fill: var(--accent-bright); } .ds-engine-node .ds-node-label { fill: var(--dim); font: 700 11px var(--mono); letter-spacing: 1px; } .ds-engine-node .ds-node-value { fill: var(--text); font: 600 14px var(--font); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Engine Diagnostic",
+    "overview": "Engine Diagnostic treats the portfolio as a measured technical inspection of gameplay work. Deep navy layers establish a calm working environment; crisp rules, metadata, and state-graph geometry reveal how systems connect without turning the page into a fictional control panel.\n\nThe system is technical editorial rather than theatrical. Stable content, generous reading space, and restrained blue signals keep project reasoning primary. Motion behaves like a diagnostic event: one signal pulse traces the engine graph once, while ordinary interaction states remain brief and precise.",
+    "keyCharacteristics": [
+      "Deep navy surfaces separated by tone and one-pixel measured lines.",
+      "Restrained diagnostic blue reserved for actions, active states, and technical notation.",
+      "Large, compact sans-serif headlines paired with small monospaced metadata.",
+      "Game-engine state graphs used as structural geometry, never decorative gaming imagery.",
+      "Stable content with one-time signal motion and a complete reduced-motion fallback."
+    ],
+    "rules": [
+      { "name": "The Signal Scarcity Rule", "body": "Diagnostic blue marks action, state, or technical meaning; it is not ambient decoration.", "section": "colors" },
+      { "name": "The Navy Ladder Rule", "body": "Create depth by stepping through the existing navy surfaces before reaching for shadow or transparency.", "section": "colors" },
+      { "name": "The Two-Voice Rule", "body": "Use sans-serif for ideas and outcomes; use mono only for state, role, value, date, or system notation.", "section": "typography" },
+      { "name": "The Inspectable Flow Rule", "body": "Projects lead in a stable vertical sequence; supporting grids may compress, but case-study reading order never changes.", "section": "layout" },
+      { "name": "The Flat-By-Default Rule", "body": "Use tone and line first; shadow appears only when a surface changes interaction depth or represents a contained visual instrument.", "section": "elevation" },
+      { "name": "The Functional Geometry Rule", "body": "A curve, circle, grid, or connector must describe state, grouping, or flow; it never exists as generic gaming decoration.", "section": "shapes" }
+    ],
+    "dos": [
+      "Do preserve deep navy tonal layering and crisp one-pixel structural lines.",
+      "Do reserve diagnostic blue for actions, active states, focus, and technical notation.",
+      "Do use state graphs, connectors, grids, and readouts to explain real system relationships.",
+      "Do keep case-study content stable, readable, and keyboard accessible across breakpoints.",
+      "Do keep motion brief and purposeful, with the engine signal pulse playing once and reduced-motion fully respected."
+    ],
+    "donts": [
+      "Don't add fake HUD gauges, targeting reticles, telemetry clutter, or interface chrome without real information.",
+      "Don't drift into esports neon, cyberpunk glow, or generic gaming imagery.",
+      "Don't introduce SaaS dashboard cards, pill-heavy UI, decorative glass, or gradient spectacle.",
+      "Don't use monospaced type for long prose or blue as an ambient background effect.",
+      "Don't animate stable content continuously or turn the diagnostic pulse into a looping ornament."
+    ]
+  }
+}
